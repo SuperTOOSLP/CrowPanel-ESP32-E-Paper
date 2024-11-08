@@ -3,7 +3,7 @@ import requests
 ### Tu clave de API de OpenWeather
 api_key = "Tu clave api"
 ciudad = input("Ingrese el nombre de la Ciudad: ")
-pais = input("Ingrese el codigo ISO de su pais: ")  ### Código de país de Colombia (usando el código del país en formato ISO)
+pais = input("Ingrese el codigo ISO de su pais: ")  ### Código de tu pais (usando el código del país en formato ISO)
 
 ### hacer la solicitud api
 url = f"http://api.openweathermap.org/data/2.5/weather?q={ciudad},{pais}&appid={api_key}"
