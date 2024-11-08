@@ -9,3 +9,5 @@ Compra tu CrowPanel ESP32 4.2” E-paper HMI Display with 400*300 Resolution, Bl
 Comparte tus conocimientos en la comunidad Elecrow: https://www.elecrow.com/share-projects.html?from=nav/
 
 Crea tu clave api en: https://openweathermap.org/
+
+Mas información en mi página web: https://supertoolslp.blogspot.com/
